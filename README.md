@@ -36,7 +36,7 @@ comprehensive full-stack web application designed for managing tasks efficiently
 - Services: TaskService.java
 - Configuration: application.properties
 
-##Front-end (Angular)##
+## Front-end (Angular)
 - Models: task.ts
 - TaskFormComponent: Handles task creation.
 - TaskListComponent: Displays list of tasks.
@@ -55,7 +55,7 @@ comprehensive full-stack web application designed for managing tasks efficiently
 - Git
 
 # Back-end Setup
-##Clone the repository:##
+## Clone the repository:
 git clone https://github.com/yourusername/taskmanager.git
 cd taskmanager
 
@@ -68,7 +68,7 @@ cd taskmanager
     - mvn spring-boot:run
 
 # Front-end Setup
-##Navigate to the front-end directory (if separated):##
+## Navigate to the front-end directory (if separated):
 - cd frontend
 
 ##Install dependencies:##
