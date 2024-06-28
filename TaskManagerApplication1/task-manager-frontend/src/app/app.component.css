@@ -1,0 +1,31 @@
+.container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.title {
+  font-family: 'Fantasy', sans-serif;
+  font-size: 48px;
+  color: #ffffff; /* لون يجذب العين */
+  margin-bottom: 20px;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #00aeff;
+}
+
+nav a:hover {
+  text-decoration: underline;
+  color: #0056b3;
+}
